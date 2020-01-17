@@ -1,4 +1,4 @@
-# Worst Practice Blog presents 
+# The worstpractice.dev presents
 
 ## CSS Hamburger Menu
 
